@@ -1,0 +1,4 @@
+﻿  Vector2d.cpp
+C:\Users\zagos\source\repos\ConsoleApplication1\ConsoleApplication1\Vector2d.cpp(98): warning C4172: возвращение адреса локальной или временной переменной : temp
+C:\Users\zagos\source\repos\ConsoleApplication1\ConsoleApplication1\Vector2d.cpp(111): warning C4172: возвращение адреса локальной или временной переменной : temp
+  ConsoleApplication1.vcxproj -> C:\Users\zagos\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
